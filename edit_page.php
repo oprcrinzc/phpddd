@@ -2,7 +2,7 @@
 include "connect.php";
 $cid = $_GET['cid'];
 
-$res = $conn->query("SELECT * FROM car2 WHERE cid='$cid'");
+$res = $conn->query("SELECT * FROM car WHERE cid='$cid'");
 if($res->num_rows == 1){
     $row = $res->fetch_assoc();
     $c_name = $row['c_name'];
