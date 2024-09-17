@@ -34,7 +34,13 @@ cid varchar(7) UNIQUE,
 ---
 เปิด xampp\
 ![Screenshot from 2024-09-17 23-40-12e](https://github.com/user-attachments/assets/71087045-5c82-4103-bfac-287d251de654)\
-กดปุ่ม Explorer กด folder htdocs\
+กดปุ่ม Explorer กด folder htdocs สรา้งโฟลเดอใหม่ชื่อตัวเอง\
 ![asdgjkjhghjk](https://github.com/user-attachments/assets/3a82d8d1-6aed-44ca-8f5e-30feaa64c8fe)\
 ![downloadZip](https://github.com/user-attachments/assets/123e48db-d793-4a65-999c-582a719cc6f3)\
-โหลดไฟล์ กด code กด download zip
+โหลดไฟล์ กด code กด download zip เปิดไฟล์แล้วก้อปไปวางใน htdocs ในโฟลเดอ ชื่อตัวเอง\
+เปิด http://127.0.0.1/ชื่อโฟลเดอตัวเอง/ชื่อไฟลที่เปิด 
+```
+เช่น
+http://127.0.0.1/myname/show_car.php
+```
+
