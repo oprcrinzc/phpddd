@@ -36,6 +36,8 @@ cid varchar(7) UNIQUE,
 ![image](https://github.com/user-attachments/assets/7f24d208-8790-498d-b40c-c3d255db5850)\
 ![downloadZip](https://github.com/user-attachments/assets/123e48db-d793-4a65-999c-582a719cc6f3)\
 โหลดไฟล์ กด code กด download zip เปิดไฟล์แล้วก้อปไปวางใน htdocs ในโฟลเดอ ชื่อตัวเอง\
+![image](https://github.com/user-attachments/assets/f59e6654-eab9-4c61-99a5-5f574deb8944)\
+เลือกทุกไฟล์ยกเว้น readme.md \
 เปิด http://127.0.0.1/ชื่อโฟลเดอตัวเอง/ชื่อไฟลที่เปิด 
 ```
 เช่น
