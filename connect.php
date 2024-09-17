@@ -1,8 +1,8 @@
 <?php 
 
 $sname = "127.0.0.1";
-$suname = "oprc";
-$pwd = "123456789";
+$suname = "root";
+$pwd = "";
 $db_name = "car_db";
 
 $table = "car";
