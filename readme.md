@@ -15,9 +15,6 @@
 กด New\
 ![image](https://github.com/user-attachments/assets/4ad9ec44-43d6-4e08-991a-d89c1c6eabc9)\
 เขียนชื่อฐานข้อมูลตรง  Databases name แล้วกด create\
-![image](https://github.com/user-attachments/assets/fe43248e-cd03-4054-9425-25cbd7f5b83a)\
-เขียนชื่อตารางตรง  Table name ปรับ จำนวน คอลลัม Number of columns แล้วกด create\
-![Untitlasdasded](https://github.com/user-attachments/assets/50c8e57a-6883-4a54-b55a-245142761666)\
 ![aesdrqwrfdf](https://github.com/user-attachments/assets/75950639-d9f8-4259-ae3b-673d8d29da35)\
 กด SQL ตรงแถบด้านบน แล้วใส่โค้ดนี้
 ```
