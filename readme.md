@@ -19,7 +19,7 @@
 เขียนชื่อตารางตรง  Table name ปรับ จำนวน คอลลัม Number of columns แล้วกด create\
 ![Untitlasdasded](https://github.com/user-attachments/assets/50c8e57a-6883-4a54-b55a-245142761666)\
 ![aesdrqwrfdf](https://github.com/user-attachments/assets/75950639-d9f8-4259-ae3b-673d8d29da35)\
-กด SQL ตรงแถบด้านบน แล้วใส่โค้ดนี้\
+กด SQL ตรงแถบด้านบน แล้วใส่โค้ดนี้
 ```
 CREATE TABLE carx(
 cid varchar(7) UNIQUE,
