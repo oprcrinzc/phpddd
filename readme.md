@@ -2,7 +2,7 @@
 ---
 ![Screenshot from 2024-09-17 23-41-56](https://github.com/user-attachments/assets/67c37c57-da4d-4d9d-aec3-29c8627ece28) \
 กดปุ่ม Start ของแถว Apache และ MySQL\
-รอให้เขียว\
+รอให้เขียว
 
 # สร้างฐานข้อมูล
 ---
@@ -36,5 +36,5 @@ cid varchar(7) UNIQUE,
 ![Screenshot from 2024-09-17 23-40-12e](https://github.com/user-attachments/assets/71087045-5c82-4103-bfac-287d251de654)\
 กดปุ่ม Explorer กด folder htdocs\
 ![asdgjkjhghjk](https://github.com/user-attachments/assets/3a82d8d1-6aed-44ca-8f5e-30feaa64c8fe)\
-
-
+![downloadZip](https://github.com/user-attachments/assets/123e48db-d793-4a65-999c-582a719cc6f3)\
+โหลดไฟล์ กด code กด download zip
